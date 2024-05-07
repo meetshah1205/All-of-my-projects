@@ -1,0 +1,36 @@
+{
+  "questions": [
+    {
+      "question": "What is your name?",
+      "answer": "My name is Chatbot."
+    },
+    {
+      "question": "What is the capital of France?",
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "question": "How are you?",
+      "answer": "I am doing well, thank you!"
+    },
+    {
+      "question": "Hello",
+      "answer": "Hi user"
+    },
+    {
+      "question": "Hi",
+      "answer": "Hello user, thank you for using this AI today! How may I help you?"
+    },
+    {
+      "question": "hi",
+      "answer": "ckip"
+    },
+    {
+      "question": "Can you write code",
+      "answer": "Yes I sure can basic programs. If you need any assistance then ask me without any hesitation."
+    },
+    {
+        "question": "write a program for an ai like main.py",
+        "answer": "Building a Chatbot like this taes patience, hard work and a lot of training data. I cannot directly provide you with that."
+    }
+  ]
+}
